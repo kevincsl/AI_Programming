@@ -20,3 +20,7 @@
 - 4. 貪食蛇: 寫一個網頁的程式，使用 html, css, javascript 寫一個貪食蛇的網站,用上下左右件來控制方向.產生程式碼後,再命令微調初步就完成了
      
      [example:https://kevincsl.github.io/snake/](https://kevincsl.github.io/snake/)
+
+
+Editor : Chi-Hsien Lin 
+日期：{{ site.time | date: "%Y-%m-%d" }}
