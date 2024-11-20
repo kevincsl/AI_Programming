@@ -22,5 +22,6 @@
      [example:https://kevincsl.github.io/snake/](https://kevincsl.github.io/snake/)
 
 
-Editor : Chi-Hsien Lin 
-日期：{{ site.time | date: "%Y-%m-%d" }}
+Editor : Chi-Hsien Lin.
+
+Updated: 日期：{{ site.time | date: "%Y-%m-%d" }}
