@@ -1,4 +1,4 @@
-# AI_Prompt
+# AI_Programming 利用AI協作寫程式
 
 ####  工作環境 1. Visual Studio Code 可縮寫為 VSC
 ####  工作環境 2. 在VSC中安裝 extension , Github Copilot (用老師學生身份可免費升級Pro-可使用ai功能 chtgpt-4o , o1 與 claude 3.5 sonnet)
